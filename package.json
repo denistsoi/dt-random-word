@@ -1,0 +1,11 @@
+{
+  "name": "dt-random-word",
+  "version": "1.0.0",
+  "description": "CLI CMU Dictionary Random Word Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Denis Tsoi",
+  "license": "MIT"
+}
